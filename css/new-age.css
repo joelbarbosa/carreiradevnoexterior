@@ -374,6 +374,14 @@ section.contact ul.list-social li.social-google-plus a:hover {
   background-color: #d73925;
 }
 
+section.contact ul.list-social li.social-github a {
+  background-color: #222222;
+}
+
+section.contact ul.list-social li.social-github a:hover {
+  background-color: #060606;
+}
+
 footer {
   padding: 25px 0;
   text-align: center;
