@@ -1,11 +1,11 @@
 {
-    "title": "New Age",
-    "name": "startbootstrap-new-age",
-    "version": "5.0.7",
+    "title": "Carreira Dev no Exterior",
+    "name": "",
+    "version": "1.0.0",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
-    "description": "A one page app landing page HTML theme for Bootstrap.",
+    "description": "Carreira Dev no Exterior",
     "keywords": [
         "css",
         "sass",
@@ -14,20 +14,8 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/new-age",
-    "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-new-age/issues",
-        "email": "feedback@startbootstrap.com"
-    },
+    "homepage": "https://joelbarbosa.github.io/carreiradevnoexterior/",
     "license": "MIT",
-    "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (http://davidmiller.io/)"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-new-age.git"
-    },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.10.2",
         "bootstrap": "4.3.1",
