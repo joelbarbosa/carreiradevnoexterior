@@ -223,7 +223,7 @@ section.download .badges .badge-link img {
 }
 
 section.download .badges .badge-link-podcast img {
-  height: 400px;
+  /* height: 400px; */
 }
 
 
@@ -443,4 +443,13 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 .btn-xl {
   font-size: 11px;
   padding: 15px 45px;
+}
+
+input {
+  width: 72%;
+  border-radius: 23px;
+  height: 48px;
+  margin-bottom: 10px;
+  padding: 15px;
+  border: solid 1px #FFFF;
 }
