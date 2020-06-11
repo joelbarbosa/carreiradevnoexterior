@@ -23,8 +23,7 @@ email: carreiradevnoexterior@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Engenheiro de Software com mais de 8 anos de experiência, atualmente se aventurando pela a Europa. Quando no Brasil trabalhou em algumas empresas de Fortaleza, Ceará como desenvolvedor FrontEnd e BackEnd com as tecnologias JavaScript, Java, Android e IOs. Profissional apaixonado pelo o mundo do desenvolvimento de software e criou o Carreira Dev No Exterior para ajudar outros desenvolvedores que sonham trabalhar fora do Brasil.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://joelbarbosa.github.io/carreiradevnoexterior" # the base hostname & protocol for your site, e.g. http://example.com
-production_url : https://joelbarbosa.github.io/carreiradevnoexterior/blog
+url: "https://carreiradevnoexterior.com.br" # the base hostname & protocol for your site, e.g. http://example.com
 BASE_PATH : https://joelbarbosa.github.io/carreiradevnoexterior/blog
 twitter_username: joelcarreiradev
 github_username:  joelbarbosa
